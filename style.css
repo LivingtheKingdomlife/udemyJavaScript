@@ -1,0 +1,30 @@
+body{
+    background-color: #dceaec;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.2;
+}
+
+h1 {
+    color: black;
+    background-color: chartreuse;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    background-color: darkgray;
+}
+
+.header-data {
+    background-color: brown;
+    margin: 0;
+    color: whitesmoke;
+    padding-left: 50px;
+}
+
+.header-rules{
+    background-color: violet;
+    text-align: center;
+}
